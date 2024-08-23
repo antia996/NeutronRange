@@ -1,0 +1,12 @@
+C:/Geant4/NeutronSimulation/out/build/x64-Debug/CMakeFiles/B4.dir
+C:/Geant4/NeutronSimulation/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Geant4/NeutronSimulation/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Geant4/NeutronSimulation/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Geant4/NeutronSimulation/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Geant4/NeutronSimulation/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Geant4/NeutronSimulation/out/build/x64-Debug/B4a/CMakeFiles/exampleB4a.dir
+C:/Geant4/NeutronSimulation/out/build/x64-Debug/B4a/CMakeFiles/edit_cache.dir
+C:/Geant4/NeutronSimulation/out/build/x64-Debug/B4a/CMakeFiles/rebuild_cache.dir
+C:/Geant4/NeutronSimulation/out/build/x64-Debug/B4a/CMakeFiles/list_install_components.dir
+C:/Geant4/NeutronSimulation/out/build/x64-Debug/B4a/CMakeFiles/install.dir
+C:/Geant4/NeutronSimulation/out/build/x64-Debug/B4a/CMakeFiles/install/local.dir
